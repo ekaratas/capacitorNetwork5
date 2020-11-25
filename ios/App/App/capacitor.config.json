@@ -1,5 +1,5 @@
 {
-  "appId": "com.erinckaratas.capacitorNetwork",
+  "appId": "io.ionic.starter",
   "appName": "capacitorNetwork",
   "bundledWebRuntime": false,
   "npmClient": "npm",

@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+import { Plugins } from '@capacitor/core';
+
+const { Network } = Plugins;
 
 @Component({
   selector: 'app-home',
